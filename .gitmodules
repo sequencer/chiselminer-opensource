@@ -1,0 +1,9 @@
+[submodule "config"]
+	path = config
+	url = https://github.com/chipsalliance/api-config-chipsalliance
+[submodule "asyncqueue"]
+	path = asyncqueue
+	url = https://github.com/ucb-bar/asyncqueue/
+[submodule "chiselblocks"]
+	path = chiselblocks
+	url = https://github.com/sequencer/chiselblocks
